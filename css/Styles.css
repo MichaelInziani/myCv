@@ -1,0 +1,217 @@
+﻿
+/*UNIVERSAL*/
+body {
+    font-family: 'Poppins','Ubuntu', 'PT Serif' !important;
+    background-color: #EEF1FF !important;
+}
+
+p{
+    padding: 0 2%;
+}
+ .li {
+     padding: 0 2.5%;
+ }
+
+.header2 {
+    font-size: 2.0rem;
+    font-family: 'Montserrat' !important, sans-serif;
+    font-weight: 600;
+    color: black;
+}
+
+.header3 {
+    font-size: 1.5rem;
+    font-family: 'Ubuntu'!important, sans-serif;
+    font-weight: 500;
+    color: darkblue;
+}
+
+.header4 {
+    font-size: 1.3rem;
+    font-family: 'Poppins'!important, sans-serif;
+    font-weight: 600;
+}
+
+.header5 {
+    font-size: 1.2rem;
+    font-family:'Ubuntu' !important, sans-serif;
+    font-weight: 500;
+}
+
+.difc {
+    font-size: 1.6rem;
+    color: darkgreen;
+    font-style: italic;
+}
+/*Header Section*/
+h1 {
+    font-family: Elephant;
+    font-size: 3rem;
+    font-style: normal;
+}
+
+#header {
+    padding: 20% 5% 2%;
+    background-image: url(../Images/pic9.jpg);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.myPic {
+    display: inline-block;
+    text-align: right;
+    padding: 5% 0 7% 5%;
+    position: relative;
+}
+.list-1 {
+    display: inline-block;
+    text-align: left;
+    font-style: italic;
+    font-size: 1.2rem;
+    padding: 5% 2% 5% 0;
+    color: #2832d7;
+}
+
+    .profile-img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin-right: 30px;
+}
+
+.skillsli {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
+/*Self Introduction*/
+#intro {
+    padding: 3% 5% 2%;
+    text-align: left;
+}
+
+/*EXPERIENCE*/
+#experience {
+    padding: 2% 5% 3%;
+    text-align: left;
+}
+
+.internship {
+    padding: 2%;
+}
+
+.thwake {
+    padding: 2%;
+}
+
+.ursa {
+    padding: 2%;
+}
+
+/*EDUCATION*/
+#education {
+   padding: 2% 5% 3%;
+    text-align: left;
+}
+
+.mandarin {
+    padding: 2%;
+}
+
+.bachelors {
+    padding: 2%;
+}
+
+.kcse {
+    padding: 2%;
+}
+
+.kcpe {
+    padding: 2%;
+}
+
+/*SKILLS & COMPETENCIES*/
+#skills {
+    padding: 2% 5% 2%;
+    text-align: left;
+    
+}
+
+.skills1 {
+    padding: 2% 2% 2% 0;
+}
+
+.skills2 {
+    padding: 0 2% 2% 2%;
+}
+
+
+/*LANGUAGE*/
+#language {
+    
+    padding: 2% 5% 2%;
+    text-align: left;
+}
+
+.lan {
+    padding: 0 2%;
+}
+
+/*HOBBIES & INTERESTS*/
+#hobbies {
+    padding: 2% 5% 2%;
+    text-align: left;
+}
+
+.hob {
+    padding: 0 20px;
+}
+
+/*REFERENCES*/
+#references {
+    padding: 2% 5% 2%;
+    text-align: left;
+}
+
+/*FOOTER*/
+#footer {
+    background-color: #D2DAFF;
+    padding: 10% 20% 2%;
+    text-align: center;
+}
+
+.footer-icons {
+    padding-bottom: 7%;
+}
+
+.footer-image {
+    padding: 2%;
+    color: blue;
+}
+
+    .footer-image:hover {
+        color: #808080;
+    }
+
+    .copyright {
+        padding-top: 10%;
+    }
+
+
+@media (max-width: 768px) {
+
+    .myPic {
+        text-align: center;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .list-1 {
+        text-align: center;
+        max-width: 100%;
+        height: auto;
+    }
+}
